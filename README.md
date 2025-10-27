@@ -6,7 +6,7 @@ Ce projet combine **React Native** et **Expo** pour le développement mobile mul
 
 ---
 
-## Cloner le projet
+## Cloner le  projet
 
 ```bash
 git clone https://github.com/alainduberdl/reactNative.git
